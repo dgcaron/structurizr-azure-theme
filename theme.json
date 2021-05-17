@@ -3,10 +3,10 @@
     "description" : "This theme includes element styles with icons for each of the Azure services, based upon the Microsoft Azure icon set (https://docs.microsoft.com/en-us/azure/architecture/icons/).",
     "elements" : [ {
       "tag" : "Microsoft Azure - Subscriptions",
-      "icon" : "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/subscriptions.svg?token=ACKP6IDYYDBTUKOMN75FVBTAUK7FA"
+      "icon" : "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/subscriptions.svg"
     }, {
       "tag" : "Microsoft Azure - Resource Groups",
-      "icon" : "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/resource-groups.svg?token=ACKP6IDYYDBTUKOMN75FVBTAUK7FA"
+      "icon" : "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/resource-groups.svg"
     }
 ]
 }
