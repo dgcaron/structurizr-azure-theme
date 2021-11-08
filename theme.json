@@ -1,150 +1,154 @@
 {
-    "name": "Microsoft Azure",
-    "description": "This theme includes element styles with icons for each of the Azure services, based upon the Microsoft Azure icon set (https://docs.microsoft.com/en-us/azure/architecture/icons/).",
-    "elements": [
-        {
-            "tag": "Microsoft Azure - Alerts",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/alert.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Log Analytics Workspaces",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/log-analytics-workspaces.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Application Insights",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/application-insights.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Automation Account",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/automation-accounts.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Azure SQL",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/azure-sql.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Container Instances",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/container-instances.svg"
-        },
-        {
-            "tag": "Microsoft Azure - CosmosDB",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/cosmos-db.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Datafactory V2",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/data-factory.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Databricks",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/databricks.svg"
-        },
-        {
-            "tag": "Microsoft Azure - DNS Zones",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/dns-zones.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Event Hubs",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/event-hubs.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Function Apps",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/function-apps.svg"
-        },
-        {
-            "tag": "Microsoft Azure - IoT Device Provisioning Services",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/iot-device-provisioning-services.svg"
-        },
-        {
-            "tag": "Microsoft Azure - IoT Hub",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/iot-hub.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Key Vaults",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/key-vaults.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Lighthouse",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/lighthouse.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Log Analytics Workspaces",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/log-analytics-workspaces.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Machine Learning Studio Workspaces",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/machine-learning-studio-workspaces.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Network Interfaces",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/network-interfaces.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Network Security Group",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/network-security-group.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Policy",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/policy.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Private Link",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/private-link.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Resource Groups",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/resource-groups.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Route Tables",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/route-tables.svg"
-        },
-        {
-            "tag": "Microsoft Azure - SQL Data Warehouses",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/sql-data-warehouses.svg"
-        },
-        {
-            "tag": "Microsoft Azure - SQL Managed Instances",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/sql-managed-instances.svg"
-        },
-        {
-            "tag": "Microsoft Azure - SSIS IR",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/ssis-ir.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Storage Accounts",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/storage-accounts.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Stream Analytics Jobs",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/stream-analytics-jobs.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Subscriptions",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/subscriptions.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Synapse Analytics",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/synapse-analytics.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Time Series Insights Environments",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/time-series-insights-environments.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Time Series Insights Event Sources",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/time-series-insights-event-sources.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Virtual Machine",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/virtual-machine.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Virtual Network Gateways",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/virtual-network-gateways.svg"
-        },
-        {
-            "tag": "Microsoft Azure - Virtual Networks",
-            "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/virtual-networks.svg"
-        }
-    ]
+  "name": "Microsoft Azure",
+  "description": "This theme includes element styles with icons for each of the Azure services, based upon the Microsoft Azure icon set (https://docs.microsoft.com/en-us/azure/architecture/icons/).",
+  "elements": [
+    {
+      "tag": "Microsoft Azure - Alerts",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/alert.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Log Analytics Workspaces",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/log-analytics-workspaces.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Application Insights",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/application-insights.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Automation Account",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/automation-accounts.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Azure SQL",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/azure-sql.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Container Instances",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/container-instances.svg"
+    },
+    {
+      "tag": "Microsoft Azure - CosmosDB",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/cosmos-db.svg"
+    },
+    {
+      "tag": "Microsoft Azure - DevOps",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/devops/10261-icon-service-azure-devops.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Datafactory V2",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/data-factory.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Databricks",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/databricks.svg"
+    },
+    {
+      "tag": "Microsoft Azure - DNS Zones",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/dns-zones.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Event Hubs",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/event-hubs.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Function Apps",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/function-apps.svg"
+    },
+    {
+      "tag": "Microsoft Azure - IoT Device Provisioning Services",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/iot-device-provisioning-services.svg"
+    },
+    {
+      "tag": "Microsoft Azure - IoT Hub",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/iot-hub.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Key Vaults",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/key-vaults.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Lighthouse",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/lighthouse.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Log Analytics Workspaces",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/log-analytics-workspaces.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Machine Learning Studio Workspaces",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/machine-learning-studio-workspaces.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Network Interfaces",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/network-interfaces.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Network Security Group",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/network-security-group.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Policy",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/policy.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Private Link",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/private-link.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Resource Groups",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/resource-groups.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Route Tables",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/route-tables.svg"
+    },
+    {
+      "tag": "Microsoft Azure - SQL Data Warehouses",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/sql-data-warehouses.svg"
+    },
+    {
+      "tag": "Microsoft Azure - SQL Managed Instances",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/sql-managed-instances.svg"
+    },
+    {
+      "tag": "Microsoft Azure - SSIS IR",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/ssis-ir.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Storage Accounts",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/storage-accounts.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Stream Analytics Jobs",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/stream-analytics-jobs.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Subscriptions",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/subscriptions.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Synapse Analytics",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/synapse-analytics.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Time Series Insights Environments",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/time-series-insights-environments.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Time Series Insights Event Sources",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/time-series-insights-event-sources.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Virtual Machine",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/virtual-machine.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Virtual Network Gateways",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/virtual-network-gateways.svg"
+    },
+    {
+      "tag": "Microsoft Azure - Virtual Networks",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/virtual-networks.svg"
+    }
+  ]
 }
