@@ -32,7 +32,7 @@
     },
     {
       "tag": "Microsoft Azure - DevOps",
-      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/devops/10261-icon-service-azure-devops.svg"
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/DevOps/10261-icon-service-Azure-DevOps.svg"
     },
     {
       "tag": "Microsoft Azure - Datafactory V2",
