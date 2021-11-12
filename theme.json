@@ -23,8 +23,16 @@
       "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/azure-sql.svg"
     },
     {
+      "tag": "Microsoft Azure - Cognitive Services",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/AI + Machine Learning/10162-icon-service-Cognitive-Services"
+    },
+    {
       "tag": "Microsoft Azure - Container Instances",
-      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/container-instances.svg"
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/Containers/10104-icon-service-Container-Instances"
+    },
+    {
+      "tag": "Microsoft Azure - Container Registries",
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons//Containers/10105-icon-service-Container-Registries.svg"
     },
     {
       "tag": "Microsoft Azure - CosmosDB",
