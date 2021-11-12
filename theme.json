@@ -4,7 +4,7 @@
   "elements": [
     {
       "tag": "Microsoft Azure - App Service Plans",
-      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/alert.svg"
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/log-analytics-workspaces.svg"
     },
     {
       "tag": "Microsoft Azure - Alerts",
