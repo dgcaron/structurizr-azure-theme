@@ -24,11 +24,11 @@
     },
     {
       "tag": "Microsoft Azure - Cognitive Services",
-      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/AI + Machine Learning/10162-icon-service-Cognitive-Services"
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/AI + Machine Learning/10162-icon-service-Cognitive-Services.svg"
     },
     {
       "tag": "Microsoft Azure - Container Instances",
-      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/Containers/10104-icon-service-Container-Instances"
+      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/Containers/10104-icon-service-Container-Instances.svg"
     },
     {
       "tag": "Microsoft Azure - Container Registries",
