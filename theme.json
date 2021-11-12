@@ -3,10 +3,6 @@
   "description": "This theme includes element styles with icons for each of the Azure services, based upon the Microsoft Azure icon set (https://docs.microsoft.com/en-us/azure/architecture/icons/).",
   "elements": [
     {
-      "tag": "Microsoft Azure - App Service Plans",
-      "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/App Services/00046-icon-service-App-Service-Plans.svg"
-    },
-    {
       "tag": "Microsoft Azure - Alerts",
       "icon": "https://raw.githubusercontent.com/dgcaron/structurizr-azure-theme/master/icons/alert.svg"
     },
